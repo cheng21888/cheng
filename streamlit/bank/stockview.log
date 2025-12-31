@@ -1,0 +1,16 @@
+2025-12-29 18:39:51,899 - ERROR - 获取股票信息时发生错误：('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-29 18:40:19,460 - ERROR - 获取股票信息时发生错误：('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-12-29 18:41:09,416 - ERROR - 获取股票信息时发生错误：Can only use .str accessor with string values!
+2025-12-29 18:42:15,433 - ERROR - 获取股票信息时发生错误：Can only use .str accessor with string values!
+2025-12-29 18:49:26,530 - ERROR - 获取股票信息时发生错误：Can only use .str accessor with string values!
+2025-12-29 19:01:08,458 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 19:21:05,143 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 19:28:30,541 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 20:06:59,709 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 20:32:09,146 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 20:48:12,687 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 20:49:54,380 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 21:05:10,374 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-29 21:10:33,634 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-30 00:19:06,046 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
+2025-12-30 00:24:14,483 - INFO - 前 10% 成交金额的股票的平均涨幅为: 0.60%
